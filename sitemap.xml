@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bobbobbee.github.io/patternhut/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bobbobbee.github.io/patternhut/</loc>
+</url>
+<url>
+<loc>https://bobbobbee.github.io/patternhut/about-us.html</loc>
+<lastmod>2023-02-21T16:59:22-06:00</lastmod>
+<image:image>
+<image:loc>https://bobbobbee.github.io/patternhut/media\posts\2/kelly-sikkema-8A7qKkvm_ew-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bobbobbee.github.io/patternhut/caron-patterns-free.html</loc>
+<lastmod>2023-02-21T16:47:06-06:00</lastmod>
+<image:image>
+<image:loc>https://bobbobbee.github.io/patternhut/media\posts\1/nik-91UEmzLi-_Y-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://bobbobbee.github.io/patternhut/media\posts\1//hat.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

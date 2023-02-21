@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PatternHut</title>
+    <link href="https://bobbobbee.github.io/patternhut/feed.xml" rel="self" />
+    <link href="https://bobbobbee.github.io/patternhut" />
+    <updated>2023-02-21T16:47:06-06:00</updated>
+    <author>
+        <name>Bjaz Moore</name>
+    </author>
+    <id>https://bobbobbee.github.io/patternhut</id>
+
+    <entry>
+        <title>Caron Knit Crown Hat</title>
+        <author>
+            <name>Bjaz Moore</name>
+        </author>
+        <link href="https://bobbobbee.github.io/patternhut/caron-patterns-free.html"/>
+        <id>https://bobbobbee.github.io/patternhut/caron-patterns-free.html</id>
+        <media:content url="https://bobbobbee.github.io/patternhut/media/posts/1/nik-91UEmzLi-_Y-unsplash.jpg" medium="image" />
+
+        <updated>2023-02-21T16:47:06-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bobbobbee.github.io/patternhut/media/posts/1/nik-91UEmzLi-_Y-unsplash.jpg" alt="" />
+                    Knit Crown Hat Suggested Materials: Caron® Simply Soft™ (6 oz/170 g; 315 yds/288 m) Ocean (9759) 1 ball Size U.S. 8 [5 mm] knitting needles or size needed to obtain gauge. Download Here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bobbobbee.github.io/patternhut/media/posts/1/nik-91UEmzLi-_Y-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 class="dropcap">Knit Crown Hat<br><figure class="post__image post__image--right"><img loading="lazy"  src="https://bobbobbee.github.io/patternhut/media/posts/1//hat.png" alt="" width="436" height="422" sizes="100vw" srcset="https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-xs.png 300w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-sm.png 480w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-md.png 768w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-lg.png 1024w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-xl.png 1360w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-2xl.png 1600w"></figure></h2>
+<p> </p>
+<p><strong>Suggested Materials:</strong><br>Caron® Simply Soft™ (6 oz/170 g; 315 yds/288 m)<br>Ocean (9759) 1 ball<br>Size U.S. 8 [5 mm] knitting needles or size needed to obtain gauge.</p>
+<p><a href="https://bobbobbee.github.io/patternhut/media/files/CAK0116-033803M.pdf" target="_blank" rel="noopener noreferrer">Download Here</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

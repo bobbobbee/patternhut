@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PatternHut",
+    "description": "",
+    "home_page_url": "https://bobbobbee.github.io/patternhut",
+    "feed_url": "https://bobbobbee.github.io/patternhut/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bjaz Moore"
+    },
+    "items": [
+        {
+            "id": "https://bobbobbee.github.io/patternhut/caron-patterns-free.html",
+            "url": "https://bobbobbee.github.io/patternhut/caron-patterns-free.html",
+            "title": "Caron Knit Crown Hat",
+            "summary": "Knit Crown Hat Suggested Materials: Caron® Simply Soft™ (6 oz/170 g; 315 yds/288 m) Ocean (9759) 1 ball Size U.S. 8 [5 mm] knitting needles or size needed to obtain gauge. Download Here",
+            "content_html": "<h2 class=\"dropcap\">Knit Crown Hat<br><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://bobbobbee.github.io/patternhut/media/posts/1//hat.png\" alt=\"\" width=\"436\" height=\"422\" sizes=\"100vw\" srcset=\"https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-xs.png 300w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-sm.png 480w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-md.png 768w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-lg.png 1024w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-xl.png 1360w ,https://bobbobbee.github.io/patternhut/media/posts/1//responsive/hat-2xl.png 1600w\"></figure></h2>\n<p> </p>\n<p><strong>Suggested Materials:</strong><br>Caron® Simply Soft™ (6 oz/170 g; 315 yds/288 m)<br>Ocean (9759) 1 ball<br>Size U.S. 8 [5 mm] knitting needles or size needed to obtain gauge.</p>\n<p><a href=\"https://bobbobbee.github.io/patternhut/media/files/CAK0116-033803M.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Download Here</a></p>",
+            "image": "https://bobbobbee.github.io/patternhut/media/posts/1/nik-91UEmzLi-_Y-unsplash.jpg",
+            "author": {
+                "name": "Bjaz Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-21T16:29:34-06:00",
+            "date_modified": "2023-02-21T16:47:06-06:00"
+        }
+    ]
+}

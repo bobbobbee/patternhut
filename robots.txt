@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bobbobbee.github.io/patternhut/sitemap.xml
